@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Cinema Room REST Service
+- 🔭 I’m currently working on Account Service
 - 🌱 I’m currently learning Spring
 <!--
 **RuslanGren/RuslanGren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
