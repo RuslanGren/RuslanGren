@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on e-zbir / todo-app
+- 🔭 I’m currently working on e-zbir
 - 🌱 I’m currently learning Java
 <!--
 **RuslanGren/RuslanGren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
